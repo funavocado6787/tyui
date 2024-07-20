@@ -1,0 +1,80 @@
+{
+  "question": [
+    "Q1. Which Indian city is the capital of two states?",
+    "Q2. What is the capital of India?",
+    "Q3. Smallest State of India?",
+    "Q4. Where is Taj Mahal Located?",
+    "Q5. Prime Minister of India?",
+    "Q6. How many rings appear on the Olympic flag?",
+    "Q7. What is the longest river in the world?",
+    "Q8. Who painted the Mona Lisa?",
+    "Q9. Which planet is the 3rd closest to the sun?",
+    "Q10. Who is known as Father of Indian Constitution?"
+  ],
+  "answer": [
+    1,
+    2,
+    3,
+    2,
+    2,
+    2,
+    1,
+    3,
+    4,
+    2
+
+  ],
+  "options": [
+
+    ["A. Chandigarh",
+      "B. Kolkata",
+      "C. Delhi",
+      "D. Bangalore"
+    ],
+    ["A. Jaipur",
+      "B. Delhi",
+      "C. Chennai",
+      "D. Mumbai"
+    ],
+    ["A. Rajasthan",
+      "B. Punjab",
+      "C. Goa",
+      "D. Bihar"
+    ],
+    ["A. Lucknow",
+      "B. Agra",
+      "C. Bhopal",
+      "D. Delhi"
+    ],
+    ["A. Virat Kohli",
+      "B. Narendra Modi",
+      "C. Rahul Gandi",
+      "D. Mahatma Gandhi"
+    ],
+    ["A. 3",
+      "B. 5",
+      "C. 7",
+      "D. 6"
+    ],
+    ["A. Nile",
+      "B. Yangtze",
+      "C. Amazon",
+      "D. Ganga"
+    ],
+    ["A. Michelangelo",
+      "B. Sandro Botticelli",
+      "C. Leonardo da Vinci",
+      "D. Galileo Galilei"
+    ],
+    ["A. Mercury",
+      "B. Venus",
+      "C. Mars",
+      "D. Earth"
+    ],
+    ["A. Mahatma Gandhi",
+      "B. Dr. B. R. Ambedkar",
+      "C. Dr. Rajendra Prasad",
+      "D. Jawaharlal Nehru"
+    ]
+  ]
+}
